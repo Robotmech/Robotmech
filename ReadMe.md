@@ -7,7 +7,6 @@
 ![](https://streak-stats.demolab.com/?user=Robotmech&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Robotmech&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://komarev.com/ghpvc/?username=Robotmech&icon=0&color=4)](https://visitcount.itsvg.in)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rrarisona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romeo-arisona) 
 
